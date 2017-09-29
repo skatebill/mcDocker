@@ -1,0 +1,63 @@
+{
+  "last": "Default",
+  "commonpath": "C:\\Users\\sccg1\\AppData\\Roaming\\.minecraft",
+  "clientToken": "53e26feb-3b55-41e1-aa21-06a7d6943f0f",
+  "proxyType": 0,
+  "enableShadow": true,
+  "enableBlur": true,
+  "enableAnimation": true,
+  "decorated": false,
+  "theme": "blue",
+  "logintype": 0,
+  "downloadtype": 0,
+  "configurations": {
+    "Default": {
+      "selectedMinecraftVersion": "1.12.2-forge1.12.2-14.23.0.2493",
+      "gameDir": ".minecraft",
+      "noCommon": false,
+      "global": {
+        "usesGlobal": false,
+        "minecraftArgs": "",
+        "javaDir": "",
+        "precalledCommand": "",
+        "serverIp": "",
+        "java": "1.8.0_131",
+        "wrapper": "",
+        "fullscreen": false,
+        "noJVMArgs": false,
+        "notCheckGame": false,
+        "launcherVisibility": 1,
+        "gameDirType": 0
+      }
+    },
+    "Home": {
+      "selectedMinecraftVersion": "",
+      "gameDir": "C:\\Users\\sccg1\\AppData\\Roaming\\.minecraft",
+      "noCommon": false,
+      "global": {
+        "usesGlobal": false,
+        "minecraftArgs": "",
+        "javaDir": "",
+        "precalledCommand": "",
+        "serverIp": "",
+        "java": "",
+        "wrapper": "",
+        "fullscreen": false,
+        "noJVMArgs": false,
+        "notCheckGame": false,
+        "launcherVisibility": 1,
+        "gameDirType": 0
+      }
+    }
+  },
+  "auth": {
+    "yggdrasil": {},
+    "offline": {
+      "uuidMap": {},
+      "IAuthenticator_UserName": ""
+    }
+  },
+  "fontFamily": "Consolas",
+  "fontSize": 12,
+  "logLines": 100
+}

@@ -1,0 +1,13 @@
+{
+	"profiles": {
+		"(Default)": {
+			"name": "(Default)"
+		},
+		"forge": {
+			"name": "forge",
+			"lastVersionId": "1.12.2-forge1.12.2-14.23.0.2493"
+		}
+	},
+	"selectedProfile": "(Default)",
+	"clientToken": "88888888-8888-8888-8888-888888888888"
+}
