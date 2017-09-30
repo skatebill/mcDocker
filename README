@@ -5,3 +5,6 @@ no mods
 
 tomcat port 8080
 mc port 25565
+
+please mount server's savedata directory to /app/server/world
+eg: docker run .... -v /path/to/savedata:/app/server/world ...
