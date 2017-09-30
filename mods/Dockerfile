@@ -1,4 +1,4 @@
-FROM my-server-nomods
+FROM skatebill/mcdocker
 
 #RUN mkdir /app/mods/
 ADD . /app/mods/
