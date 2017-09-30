@@ -9,7 +9,7 @@ ADD ./data/ /app
 
 # Make port 80 available to the world outside this container
 EXPOSE 8080
-EXPOSE 8081
+EXPOSE 25565
 #/usr/local/tomcat/webapps/ROOT
 
 RUN rm -rf /usr/local/tomcat/webapps/ROOT
